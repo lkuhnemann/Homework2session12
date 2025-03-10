@@ -42,5 +42,5 @@ def compare_books(file1, file2):
     else:
         print("Both authors used the same number of unique words.")
 
-# Call the function for your files
-compare_books("Love's final victory.txt", "san francisco.txt")
+# Call the function with the updated file names
+compare_books("stf.txt", "sf.txt")
